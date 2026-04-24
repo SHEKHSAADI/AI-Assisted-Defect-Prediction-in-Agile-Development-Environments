@@ -1,3 +1,0 @@
-As a Project Manager, I want to register with my full name, email, and phone so that I can create a secure account.
-
-Edited once
