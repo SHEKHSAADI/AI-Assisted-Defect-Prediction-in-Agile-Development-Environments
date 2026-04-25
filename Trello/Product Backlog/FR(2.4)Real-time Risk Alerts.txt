@@ -1,0 +1,1 @@
+As a Software Developer, I want to receive real-time risk alerts for commits so that I can acknowledge or fix flagged code or defect mitigation quickly.

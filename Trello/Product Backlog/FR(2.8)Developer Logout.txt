@@ -1,0 +1,1 @@
+As a Software Developer, I want to logout from my session so that my developer account is safe.

@@ -1,0 +1,1 @@
+As a Project Manager, I want to logout of the system so that my session is securely terminated.

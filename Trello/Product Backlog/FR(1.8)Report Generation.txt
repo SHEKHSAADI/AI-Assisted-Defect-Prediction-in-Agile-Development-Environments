@@ -1,0 +1,1 @@
+As a Project Manager, I want to generate and export reports (PDF/Excel) so that I can share progress with stakeholders.
