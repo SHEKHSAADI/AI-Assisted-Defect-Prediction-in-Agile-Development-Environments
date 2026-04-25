@@ -1,0 +1,1 @@
+As a project manager I want to navigate the side menu and dashboard buttons so that I can easily access all system features.

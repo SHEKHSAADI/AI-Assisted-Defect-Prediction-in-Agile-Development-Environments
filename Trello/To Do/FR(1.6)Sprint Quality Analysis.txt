@@ -1,0 +1,1 @@
+As a Project Manager, I want to analyze sprint quality and bug leakage so that I can monitor the project’s real-time stability.
