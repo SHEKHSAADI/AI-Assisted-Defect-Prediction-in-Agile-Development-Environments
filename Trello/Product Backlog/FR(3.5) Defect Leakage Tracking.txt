@@ -1,0 +1,1 @@
+As a Test Engineer, I want to search historical defect logs and bug fix times so  that I can track defect leakage.

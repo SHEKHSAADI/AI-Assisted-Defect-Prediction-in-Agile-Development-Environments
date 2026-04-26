@@ -1,0 +1,1 @@
+As a Test Engineer, I want to view the developer list so that I can accurately assign confirmed bugs to the right person.
