@@ -1,0 +1,1 @@
+As a Test Engineer, I want to use risk-based testing strategies so  that I can generate test plans for high-risk areas.

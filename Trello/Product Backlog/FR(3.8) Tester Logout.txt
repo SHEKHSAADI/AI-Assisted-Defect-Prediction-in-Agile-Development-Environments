@@ -1,0 +1,1 @@
+As a Test Engineer, I want to logout so that no one else can access my testing dashboard.

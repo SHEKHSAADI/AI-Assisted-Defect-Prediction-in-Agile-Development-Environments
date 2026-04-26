@@ -1,0 +1,1 @@
+As an Agile Team Lead, I want to generate automated sprint quality summaries so that I can provide visual reports to stakeholders.

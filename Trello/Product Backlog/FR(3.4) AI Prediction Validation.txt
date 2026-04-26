@@ -1,0 +1,1 @@
+As a Test Engineer, I want to validate AI predictions and log new bugs so the AI model can learn from my feedback.
